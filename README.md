@@ -14,5 +14,3 @@ This repository contains the source code for a blockchain-based identity verific
 - **Experimental Validation**: Thorough experimental validation to assess functionality, security, and performance parameters.
 
 
-## Author
-Mitali Sinha
